@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<books>
+    <book id="0">
+        <name>Tom</name>
+        <price>20</price>
+    </book>
+    <book id="1">
+        <name>Jom</name>
+        <price>30</price>
+    </book>
+    <book id="2">
+        <name>Eom</name>
+        <price>40</price>
+    </book>
+</books>
